@@ -15,3 +15,5 @@
 * It tells our browser to use modern version of HTML
 * When we have an element inside another element its called nesting
 * If we have a text element inside a paragraph, it allows us to have some text in the paragraph which styles differently
+
+# Then we create HTML element - <html>
