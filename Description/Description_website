@@ -6,3 +6,5 @@
 * If we don't pass anything it will open in current page and if we pass _blank it will open in new 
 
 # Paragraph, button and link had their own set of attributes that we can modify inside tag
+
+# Next i create paragraph, button and link to pancakes recipy
