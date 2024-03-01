@@ -13,3 +13,4 @@
 # Next i gonna learn how to provide correct structure of HTML
 * First we want to add at the top of our code the special line <!DOCTYPE html>
 * It tells our browser to use modern version of HTML
+* When we have an element inside another element its called nesting
