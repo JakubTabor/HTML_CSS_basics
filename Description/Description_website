@@ -4,3 +4,5 @@
 * We just need to pass the link to href attribute
 * Next we can pass another attribute, the target, which tells that the link can be open in current page or in the new 
 * If we don't pass anything it will open in current page and if we pass _blank it will open in new 
+
+# Paragraph, button and link had their own set of attributes that we can modify inside tag
