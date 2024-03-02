@@ -26,3 +26,4 @@
 * So the paragraph, link and button
 
 # And there is a head element we put everything what's not visible on the page
+* Next we create <title> element inside the <head>
