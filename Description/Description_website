@@ -27,3 +27,4 @@
 
 # And there is a head element we put everything what's not visible on the page
 * Next we create <title> element inside the <head>
+* And text inside title is going to change the text in the tab
