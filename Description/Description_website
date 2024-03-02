@@ -19,3 +19,4 @@
 # Then we create HTML element - <html>
 * Every file has only 1 html element and these element represent the entire web page
 * These element is design to contain 1 head element and 1 body element
+* Everything on our web page is supposed to go to head or body
