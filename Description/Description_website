@@ -16,7 +16,9 @@
 * When we have an element inside another element its called nesting
 * If we have a text element inside a paragraph, it allows us to have some text in the paragraph which styles differently
 
-# Then we create HTML element - <html>
+# Then i create HTML element - <html>
 * Every file has only 1 html element and these element represent the entire web page
 * These element is design to contain 1 head element and 1 body element
 * Everything on our web page is supposed to go to head or body
+
+# And then i create <body> element
