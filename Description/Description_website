@@ -22,3 +22,4 @@
 * Everything on our web page is supposed to go to head or body
 
 # And then i create <body> element
+* The <body> element contain all elements that are visible on our page
