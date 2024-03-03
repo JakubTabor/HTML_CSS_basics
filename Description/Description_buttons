@@ -1,2 +1,3 @@
 # Now i gonna create 3 buttons
 * The syntax rules are following:
+* The word button is CSS selector and it tells which element we are targeting
