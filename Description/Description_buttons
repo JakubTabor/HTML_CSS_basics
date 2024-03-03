@@ -3,3 +3,5 @@
 * The word button is CSS selector and it tells which element we are targeting
 * Inside brackets are CSS property - background-color, it tells what we are changing
 * And next is CSS value, it tells what we are changing property to
+
+# So we are changing property - background color to red
