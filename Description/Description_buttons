@@ -10,3 +10,4 @@
 * Next we are changing property of text color to white 
 * Another will be broder property and we set it to none
 * We also change height to 36 pixels and width to 105 pixels
+* Next we are gonna make rounded corners, by set border-radius, which is pixel measurement
