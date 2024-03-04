@@ -19,3 +19,4 @@
 * Then we create join button as well as previous one
 
 # The space between our 2 buttons is called margin 
+* And we can make it on left and right, by number of pixels
