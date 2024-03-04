@@ -12,3 +12,4 @@
 * We also change height to 36 pixels and width to 105 pixels
 * Next we are gonna make rounded corners, by set border-radius, which is pixel measurement
 * The higher the pixels the more round corners will be
+* And we want also to change the cursor to pinter
