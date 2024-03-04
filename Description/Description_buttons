@@ -15,3 +15,4 @@
 * And we want also to change the cursor to pinter
 
 # We create button with HTML and set the style with CSS 
+* Next we create class with HTML and then call the property to modify it
