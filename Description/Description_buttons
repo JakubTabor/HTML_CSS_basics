@@ -17,3 +17,5 @@
 # We create button with HTML and set the style with CSS 
 * Next we create class with HTML and then call the property to modify it
 * Then we create join button as well as previous one
+
+# The space between our 2 buttons is called margin 
