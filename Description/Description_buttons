@@ -25,3 +25,4 @@
 * To get rounded border we need to set the border-radius to half of border high or width
 
 # And now we are gonna check how to change the style of our buttons when we hover over mouse on them
+* First we need to target the class of our button and pass hover
