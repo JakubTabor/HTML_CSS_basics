@@ -27,3 +27,4 @@
 # And now we are gonna check how to change the style of our buttons when we hover over mouse on them
 * First we need to target the class of our button and pass hover
 * And inside we can pass the style when we hover over the button
+* To make the effect of fade away we are gonna pass the opacity property
