@@ -39,3 +39,4 @@
 * And we also make the join button when we click it fades out
 
 # Next we are gonna make transitions smoothly between 2 styles not instantly
+* We can make it in the style subscribe-button, the property transition
