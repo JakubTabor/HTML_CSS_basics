@@ -37,3 +37,5 @@
 * To do this we are gonna set the background color to our text color
 * And set the text color to the background color
 * And we also make the join button when we click it fades out
+
+# Next we are gonna make transitions smoothly between 2 styles not instantly
