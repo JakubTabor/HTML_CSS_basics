@@ -32,3 +32,5 @@
 
 # We can also add pseudo-class, which is active, it means that it activate when we click on the element
 * And we set the opacity to 0.5, so when we click the button it gets lighter
+
+# Another will be join button, we want to invert the colors
