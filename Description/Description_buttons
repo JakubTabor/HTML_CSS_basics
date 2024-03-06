@@ -34,3 +34,4 @@
 * And we set the opacity to 0.5, so when we click the button it gets lighter
 
 # Another will be join button, we want to invert the colors
+* To do this we are gonna set the background color to our text color
