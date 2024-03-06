@@ -41,3 +41,4 @@
 # Next we are gonna make transitions smoothly between 2 styles not instantly
 * We can make it in the style subscribe-button, the property transition
 * And inside transition we specify what we want transition, it is opacity
+* Next will be how long the transition will take, we set it to 0.15 second
