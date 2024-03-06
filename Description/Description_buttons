@@ -35,3 +35,4 @@
 
 # Another will be join button, we want to invert the colors
 * To do this we are gonna set the background color to our text color
+* And set the text color to the background color
