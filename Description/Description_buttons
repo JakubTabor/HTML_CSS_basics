@@ -50,3 +50,4 @@
 * We want to create the shadow when we hover over the Tweet button
 * Shadow is the CSS property called box-shadow and it takes 4 values
 * First is the horizontal position of the shadow, next is the verticall position of the shadow 
+* At third position is the blur, so it define degree of blur of shadow
