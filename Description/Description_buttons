@@ -48,3 +48,4 @@
 
 # Now we are gonna create the effect of shadow
 * We want to create the shadow when we hover over the Tweet button
+* Shadow is the CSS property called box-shadow and it takes 4 values
