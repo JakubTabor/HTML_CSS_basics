@@ -54,3 +54,4 @@
 * And they are define by the pixels range
 * The last value is the color of a shadow, to define it we use rgba and a i opacity of the color
 * 3 first values defines the color and 4th is the level of fading out
+* And we will make it not so noticeable, so i set the opacity to 0.15
