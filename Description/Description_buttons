@@ -45,3 +45,5 @@
 * We also add transition to the join button, it will be background-color to 0.15 second
 * And we change in join button the text color transition to 0.15 second and we separate both with comma 
 * We can also put the transition property into the hover, but it will only apply when we hover
+
+# Now we are gonna create the effect of shadow
