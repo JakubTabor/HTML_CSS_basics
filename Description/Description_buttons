@@ -52,3 +52,4 @@
 * First is the horizontal position of the shadow, next is the verticall position of the shadow 
 * At third position is the blur, so it define degree of blur of shadow
 * And they are define by the pixels range
+* The last value is the color of a shadow, to define it we use rgba and a i opacity of the color
