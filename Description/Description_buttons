@@ -47,3 +47,4 @@
 * We can also put the transition property into the hover, but it will only apply when we hover
 
 # Now we are gonna create the effect of shadow
+* We want to create the shadow when we hover over the Tweet button
