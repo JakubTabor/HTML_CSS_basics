@@ -57,3 +57,4 @@
 * And we will make it not so noticeable, so i set the opacity to 0.15
 
 # The shadow will be visible only when we hover over on the button
+* So we create pseudo-class hover of tweet-button and put inside box-shadow property
