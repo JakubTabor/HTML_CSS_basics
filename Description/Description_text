@@ -3,3 +3,4 @@
 * Next i change the size of text, make the text bolder and change style to italic
 * Then i want to center the text, to do this i need to set the property text-align to center
 * It can be alight as well to left or right
+* Next if we set a width, we are gonna force the text to a second line
