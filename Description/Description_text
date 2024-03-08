@@ -9,3 +9,4 @@
 # Next we are gonna create new paragraph of text
 * First we are gonna search for code to get HTML dot and add it to the text in paragraph
 * And we add a class video-stats to style it
+* I change some margin and set color of text using inspect function 
