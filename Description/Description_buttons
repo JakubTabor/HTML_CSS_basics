@@ -58,3 +58,4 @@
 
 # The shadow will be visible only when we hover over on the button
 * So we create pseudo-class hover of tweet-button and put inside box-shadow property
+* And we are gonna add the transition property and we specify that we want to transition box-shadow to 0.15 seconds
