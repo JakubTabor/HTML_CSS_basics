@@ -7,3 +7,4 @@
 * Then to add spacing between the lines we call property line-height
 
 # Next we are gonna create new paragraph of text
+* First we are gonna search for code to get HTML dot and add it to the text in paragraph
