@@ -5,3 +5,5 @@
 * It can be alight as well to left or right
 * Next if we set a width, we are gonna force the text to a second line
 * Then to add spacing between the lines we call property line-height
+
+# Next we are gonna create new paragraph of text
