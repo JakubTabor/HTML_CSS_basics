@@ -20,3 +20,4 @@
 * It is important to set by hand all margins, to fit everything
 
 # To avoid the duplication in code, we can target all paragraphs on the page and give them same property
+* We can also set all margins-top and bottom to 0
