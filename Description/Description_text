@@ -22,3 +22,4 @@
 # To avoid the duplication in code, we can target all paragraphs on the page and give them same property
 * We can also set all margins-top and bottom to 0
 * And because of CSS specificity if we have multiple lines setting the same property
+* The selector in which we specify the font and margin for all paragraphs has less priority
