@@ -24,3 +24,4 @@
 * And because of CSS specificity if we have multiple lines setting the same property
 * The selector in which we specify the font and margin for all paragraphs has less priority
 * And the selector that target the particular class has more priority
+* So class name selector has more priority than element name selector
