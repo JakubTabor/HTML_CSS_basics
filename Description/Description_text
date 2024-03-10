@@ -34,3 +34,4 @@
 * We can also make some part of the text more visible by calling property strong on it
 
 # We move the SCC part of code to another file, to not mixing it with HTML
+* And to load it into HTML file, to do that we create the <link> element
