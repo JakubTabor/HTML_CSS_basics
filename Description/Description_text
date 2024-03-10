@@ -36,3 +36,4 @@
 # We move the SCC part of code to another file, to not mixing it with HTML
 * And to load it into HTML file, to do that we create the <link> element
 * <link> element don't require the closing tag, it is called void element
+* <link> element take 2 attributes, one is rel - relation, it tells what kind of thing we are linking in
