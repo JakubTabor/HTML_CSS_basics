@@ -28,3 +28,4 @@
 
 # And finally we want to also add the paragraph of text with a link
 * We add some extra spacing at top and bottom inside the paragraph, which is padding
+* And we add a link with text decoration underline, when we hover over on it
