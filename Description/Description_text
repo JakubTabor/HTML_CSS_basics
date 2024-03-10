@@ -37,3 +37,4 @@
 * And to load it into HTML file, to do that we create the <link> element
 * <link> element don't require the closing tag, it is called void element
 * <link> element take 2 attributes, one is rel - relation, it tells what kind of thing we are linking in
+* Second attribute is href and it tells a link what file we are gonna linkin to these file
