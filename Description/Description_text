@@ -32,3 +32,5 @@
 * Now we need to specify the text element by using span on it
 * It will allow us to modify it as we want, when we assign a class
 * We can also make some part of the text more visible by calling property strong on it
+
+# We move the SCC part of code to another file, to not mixing it with HTML
