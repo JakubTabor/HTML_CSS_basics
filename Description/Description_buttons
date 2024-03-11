@@ -25,6 +25,7 @@
 * It is because, if we change the text inside the button it will resize with the text
 * We can set padding to the: left, right, bottom and top
 
+# If we want to align our buttons to the top we can add the property vertical-align and set it to top
 
 # And finally we are gonna crete third button which will be tweet button
 * To get rounded border we need to set the border-radius to half of border high or width
