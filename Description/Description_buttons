@@ -23,6 +23,8 @@
 
 # Better alternative for setting height and width is to set padding
 * It is because, if we change the text inside the button it will resize with the text
+* We can set padding to the: left, right, bottom and top
+
 
 # And finally we are gonna crete third button which will be tweet button
 * To get rounded border we need to set the border-radius to half of border high or width
