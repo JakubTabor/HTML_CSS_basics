@@ -41,3 +41,4 @@
 
 # To make everything better arrange, we create another file called styles 
 * And there we can put our CSS code
+* These construction is called Filepaths and it's how we locate different files within our HTML code  
