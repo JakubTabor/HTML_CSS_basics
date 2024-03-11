@@ -40,3 +40,4 @@
 * Second attribute is href and it tells a link what file we are gonna linkin to these file
 
 # To make everything better arrange, we create another file called styles 
+* And there we can put our CSS code
