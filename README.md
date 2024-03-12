@@ -9,11 +9,10 @@
 
 ![](https://github.com/JakubTabor/HTML_CSS_basics/blob/main/Images/join_color.png)
 #
-
 ![](https://github.com/JakubTabor/HTML_CSS_basics/blob/main/Images/join_hover.png)
 # 
+# Tweet button when i hover over on it the shadow appear and when i click i fades out
 
 ![](https://github.com/JakubTabor/HTML_CSS_basics/blob/main/Images/tweet_shadow.png)
 #
-
 ![](https://github.com/JakubTabor/HTML_CSS_basics/blob/main/Images/tweet_hover.png)
