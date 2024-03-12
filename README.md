@@ -5,6 +5,7 @@
 
 ![](https://github.com/JakubTabor/HTML_CSS_basics/blob/main/Images/subscribe_fade.png)
 #
+# The join button when i hover over change into background color blue and when i click it fades out
 
 ![](https://github.com/JakubTabor/HTML_CSS_basics/blob/main/Images/join_color.png)
 #
