@@ -8,3 +8,6 @@
 #
 
 ![](https://github.com/JakubTabor/HTML_CSS_basics/blob/main/Images/join_hover.png)
+# 
+
+![](https://github.com/JakubTabor/HTML_CSS_basics/blob/main/Images/tweet_shadow.png)
