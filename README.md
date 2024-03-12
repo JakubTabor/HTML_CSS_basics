@@ -11,3 +11,6 @@
 # 
 
 ![](https://github.com/JakubTabor/HTML_CSS_basics/blob/main/Images/tweet_shadow.png)
+#
+
+![](https://github.com/JakubTabor/HTML_CSS_basics/blob/main/Images/tweet_hover.png)
